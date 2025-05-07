@@ -27,6 +27,7 @@ A script the collects your system's OS, CPU, hostname, and IP information.
 - Great for learning file handling and system info gathering in Python
 
 **How to run:**
+```bash
 python3 system_info.py
 cat system_log.txt
 
@@ -36,6 +37,7 @@ A basic brute-force simulation to crack numeric passwords.
 - Shows why password strength matters
 
 **How to run:**
+```bash
 python3 password_cracker.py
 
 ### 4. `keyloger.py` (educational use only)
@@ -44,4 +46,5 @@ Logs keystrokes in the backround using pynput.
 - Must be used ethically and only on machines you own
 
 **How to run:**
+```bash
 python3 keylogger.py
