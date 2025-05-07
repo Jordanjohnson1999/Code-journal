@@ -16,3 +16,11 @@ This script was created as a prctice tool to:
 ```bash
 python3 system_info.py
 cat system_log.txt
+
+
+Final note from the developer
+
+This project started as a way to help me retain the basics of programming while i was learning from scratch.
+If you're reading this and struggling like i was - don't stop.
+You will get better. Make it fun, track your progress, and remember:
+Mastery is built one small session at a time.
