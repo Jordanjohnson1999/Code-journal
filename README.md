@@ -11,7 +11,7 @@ You *will* get better. Make it fun, track your progress, and remember:
 
 ## Projects in this repo
 
-### 1. `flashcards_cli.py`
+### 1. flashcards_cli.py
 A command-line flashcard app to reinforce Git, Python, and terminal commands.
 
 - Tracks your score, accuracy, and longest streak
@@ -21,7 +21,7 @@ A command-line flashcard app to reinforce Git, Python, and terminal commands.
 ```bash
 python3 flashcards_cli.py
 
-### 2. `system_info.py`
+### 2. system_info.py
 A script the collects your system's OS, CPU, hostname, and IP information.
 - Outputs the data to a readable log file
 - Great for learning file handling and system info gathering in Python
@@ -31,7 +31,7 @@ A script the collects your system's OS, CPU, hostname, and IP information.
 python3 system_info.py
 cat system_log.txt
 
-### 3. `password_cracker.py`
+### 3. password_cracker.py
 A basic brute-force simulation to crack numeric passwords.
 - Reinforce loops and conditional
 - Shows why password strength matters
@@ -40,7 +40,7 @@ A basic brute-force simulation to crack numeric passwords.
 ```bash
 python3 password_cracker.py
 
-### 4. `keyloger.py` (educational use only)
+### 4. keyloger.py (educational use only)
 Logs keystrokes in the backround using pynput.
 - Teaches you about low-level input listening
 - Must be used ethically and only on machines you own
