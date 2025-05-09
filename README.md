@@ -11,9 +11,8 @@ You *will* get better. Make it fun, track your progress, and remember:
 
 ## Projects in this repo
 
-### 1. flashcards_cli.py
+### 1. `flashcards_cli.py`
 A command-line flashcard app to reinforce Git, Python, and terminal commands.
-
 - Tracks your score, accuracy, and longest streak
 - Designed to help with memory and repetition
 
